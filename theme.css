@@ -77,11 +77,11 @@
     --text-error: #e75545;
     --text-error-hover: #f86959;
     --text-highlight-bg: rgba(255, 255, 0, 0.4);
-    --text-selection: #303338;
+    --text-selection: #FFFDFB;
     --text-on-accent: #24272B;
     --interactive-normal: #F2E6D4;
     --interactive-hover: #BEBEBE;
-    --interactive-accent: #BEBEBE;
+    --interactive-accent: #FFFDFB;
     --interactive-accent-hover: hsl(var(--accent-h), calc(var(--accent-s) - 10%), calc(var(--accent-l) - 4%));
     --scrollbar-active-thumb-bg: #F2E6D4;
     --scrollbar-bg: #F2E6D4;
