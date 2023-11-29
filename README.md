@@ -1,5 +1,3 @@
-This is a sample theme for Obsidian ([https://obsidian.md](https://obsidian.md/)).
-
 **This theme is still under construction.**
 It is based on the [penumbra](https://github.com/nealmckee/penumbra) colour scheme.
 
