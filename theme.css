@@ -162,8 +162,8 @@
     --code-property:  var(--red);
     --code-punctuation: var(--green);
     --code-string: var(--green) ;
-    --code-tag: var(--cyan);
-    --code-value: var(--blue);
+    --code-tag: var(--purple);
+    --code-value: var(--orange);
 }
 
 /* Search */
