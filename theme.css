@@ -207,12 +207,12 @@
 }
 
 mjx-container {
-    text-align: center !important;
-    color-scheme: inherit;
+	text-align: center !important;
+	font-size: 1.1em;
 }
 
 .math-block {
-    font-size: 1.3em;
+    font-size: 1.1em;
 }
 
 .theme-light :not(pre)>code,
