@@ -149,7 +149,7 @@
     --blockquote-border-color: var(--blue);
     --blockquote-font-style: italic;
 
-    --bold-color: var(--red);
+    --bold-color: var(--background-accent);
 
     --code-background: var(--background-secondary);
 
@@ -242,6 +242,10 @@ mjx-container {
 
 .cm-sizer > .inline-title {
     margin-bottom: 20px;
+}
+
+red {
+    color: var(--red)
 }
 
 /* Miscellaneous */
