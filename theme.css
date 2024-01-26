@@ -124,6 +124,9 @@
 
     --icon-color: var(--text-normal);
     --icon-color-hover: var(--background-accent);
+    --icon-color-focused: var(--background-accent);
+
+    --divider-color-hover: var(--interactive-accent-hover);
 
     --metadata-property-background-active: var(--red);
 
